@@ -1,0 +1,23 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /*?*
+Disallow: /*.pdf
+Disallow: /*.doc
+Sitemap: https://sooarch.ru/sitemap.xml
+
+
+User-agent: Googlebot
+Disallow: /admin/
+Disallow: /*?*
+Disallow: /*.pdf
+Disallow: /*.doc
+
+
+
+User-agent: Yandex
+Disallow: /admin/
+Disallow: /*?*
+Disallow: /*.pdf
+Disallow: /*.doc
+Host: https://sooarch.ru/
+Sitemap: https://sooarch.ru/sitemap.xml
